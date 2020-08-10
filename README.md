@@ -1,5 +1,7 @@
-# CatchThePhoenix
+<h1 align="center">CatchThePhoenix</h1>
 
-Simple Android Game
+<p align="center">Simple Android Game</p>
 
-![CatchThePhoenix Game Screen](https://github.com/zumrudu-anka/CatchThePhoenix/blob/master/Presentations/CatchThePhoenix.gif)
+<p align="center">
+  <img height="600" src="https://github.com/zumrudu-anka/CatchThePhoenix/blob/master/Presentations/CatchThePhoenix.gif"/>
+</p>
